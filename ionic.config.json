@@ -1,5 +1,7 @@
 {
-  "name": "pushtesting",
-  "integrations": {},
+  "name": "Onesignal_App",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
